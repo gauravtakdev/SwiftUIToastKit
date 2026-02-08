@@ -6,6 +6,11 @@ SwiftUIToastKit makes it easy to show beautiful toast messages with
 support for **styles, icons, positions, animations, and queueing** ---
 all built natively in SwiftUI.
 
+ 📱 See it in action: A fully working demo project showcasing all toast styles, positions, and queue behavior is available here:
+
+👉 SwiftUIToastKit Example App
+https://github.com/gauravtakdev/SwiftUIToastKitExample
+
 ------------------------------------------------------------------------
 
 ## ✨ Features
