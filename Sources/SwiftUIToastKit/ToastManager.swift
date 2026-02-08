@@ -49,6 +49,7 @@ public struct ToastItem: Identifiable, Equatable {
 }
 
 // Manages toast queue and presentation logic
+@MainActor
 public final class ToastManager: ObservableObject {
     
     // Queue of pending toast messages waiting to be shown
